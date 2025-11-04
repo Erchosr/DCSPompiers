@@ -119,6 +119,18 @@ DB_PASS=IciVotreMotDePasse!
 
 ---
 
+👤 Colaborateur
+
+Kylian Cattoire
+
+    Projet réalisé dans le cadre du BTS SIO (option SLAM)
+    Lycée — 2025 name branch — "Rat_Kayoux"
+
+Erwan Arnaud
+
+    Projet réalisé dans le cadre du BTS SIO (option SLAM)
+    Lycée — 2025 name branch — "Baggaid"
+
 ## 📜 Licence
 
 Ce projet est distribué sous licence **MIT**.  
